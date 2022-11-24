@@ -7,7 +7,7 @@ echo  "//////////////////////////////////////////"
 echo "////////// Ugaday chislo /////////////////"
 echo "/////////////////////////////////////////"
 echo  " "
-echo " Vivedi vashu chislo: "
+echo " Vivedite vashu chislo: "
 #chteniye vvoda (stdin-obichna eto budet klaviatura esli polzovatel ne napravil) i soxraneniye ee v peremennoy
 # read - etim operatorom mi budem soxranyat v ego_chislo
 
